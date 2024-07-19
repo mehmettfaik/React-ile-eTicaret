@@ -68,7 +68,7 @@ Projeyi klonlamak ve çalıştırmak için aşağıdaki adımları takip edebili
 #### Ürünlerin Listelendiği Sayfa
 ![resim1](https://github.com/mehmettfaik/React-ile-eTicaret/blob/main/src/images/resim-1.png)
 #### Sepet
-![resim1](https://github.com/mehmettfaik/React-ile-eTicaret/blob/main/src/images/resim2.png)
+![resim3](https://github.com/mehmettfaik/React-ile-eTicaret/blob/main/src/images/resim3.png)
 
 ## Katkı
 
