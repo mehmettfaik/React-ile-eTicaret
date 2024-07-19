@@ -1,32 +1,29 @@
-body
-{
+body {
     padding: 0;
-    margin:0 ;
+    margin: 0;
+    background-color: #fafafa;
+
 }
 
-.flex-row{
+
+.flex-row {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
 }
 
-.flex-column{
+.flex-column {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #e6f7ff;
+
 }
 
-.search-input{
-    border: none;
-    border-bottom: 1px solid lightgray;
-    padding: 5px 10px;
-    outline: none;
-    margin-right: 10px;
-}
 
-.icon{
-    font-size: 25px;
-    margin-right: 10px;
+.drawer {
+    width: 500px !important;
+
 }
